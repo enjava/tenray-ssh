@@ -32,8 +32,8 @@ dependencies {
     compile group: 'org.springframework', name: 'spring-webmvc', version: '4.2.4.RELEASE'
 
     // hibernate library
-    compile group: 'org.hibernate', name: 'hibernate-core', version: '5.1.1.Final'
-    compile group: 'org.hibernate', name: 'hibernate-c3p0', version: '5.1.1.Final'
+    compile group: 'org.hibernate', name: 'hibernate-core', version: '5.1.2.Final'
+    compile group: 'org.hibernate', name: 'hibernate-c3p0', version: '5.1.2.Final'
 
     // common library
     //compile 'org.slf4j:slf4j-api:1.7.13'
